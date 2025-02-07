@@ -1,7 +1,8 @@
+
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devdasamale&label=Profile%20views&color=0e75b6&style=flat" alt="devdasamale" /> </p>
 <h1 align="left">Hi 👋, I'm Devdas Amale</h1>
 <h3 align="left">A Passionate Software Developer from India</h3>
-
 
 # 💫 About Me:
 💻I'm currently learning Node.js<br>💭Ask me about Web Development & Ui/Ux Design<br>😊Feel free to connect with me
